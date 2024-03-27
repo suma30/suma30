@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Web Developement**
 
-- 📝 I regularly write articles on various technologies and Open source
+- 📝 I regularly write technical blogs on various technologies and Open source
 
 
 <!--
