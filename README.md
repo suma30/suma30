@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Suma Sri Bachu</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🌱 I’m currently learning **Web Developement**
+- 🌱 Web Developer
 
 - 📝 I regularly write technical blogs on various technologies and Open source
 
